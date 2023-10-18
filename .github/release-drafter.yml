@@ -29,7 +29,7 @@ version-resolver:
       - 'type: breaking'
   minor:
     labels:
-      - 'type: feature'
+      - 'feature'
   patch:
     labels:
       - 'type: bug'
